@@ -15,7 +15,18 @@ A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 (Source: udacity.com/)
 
 ### Files used
-Include the files used
+The file listed below contains the code which was used during the project.
+<ul>
+<li>
+<a href="https://github.com/PeBe2020/pdsnd_github/blob/documentation/bikeshare.py" rel="nofollow">bikeshare.py</a>
+</li>
+</ul>
+Furthermore, udacity provided three data files:
+<ul>
+<li>chicago.csv</li>
+<li>new_york_city.csv</li>
+<li>washington.csv</li>
+</ul>
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
