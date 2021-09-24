@@ -1,3 +1,9 @@
+# ===================
+# File Info:
+# Title: bikeshare
+# Author: PeBe2020
+# Created: 2021/09/24
+# ===================
 #%% Import Packages
 import time
 import datetime
