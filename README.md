@@ -32,7 +32,7 @@ Furthermore, udacity provided three data files:
 I got a lot of inspiration and help from these sites:
 <ul>
 <li><a href="https://code.activestate.com/recipes/langs/python/" rel="nofollow">Activestate</a></li>
-<li><a href="https://docs.python.org/3/" rel="nofollow">activestate.com</a>Python Docs</li>
+<li><a href="https://docs.python.org/3/" rel="nofollow">Python Docs</a></li>
 <li><a href="https://numpy.org/learn/" rel="nofollow">Numpy Tutorial</a></li>
 <li><a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html" rel="nofollow">Pandas Tutorial</a></li>
 <li><a href="https://stackoverflow.com/" rel="nofollow">Stackoverflow</a></li>
