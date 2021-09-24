@@ -36,7 +36,7 @@ def get_filters():
         elif user_input == '3':
              city = 'washington'
         else:
-             # Convert user input into lowercase to accept not case sensitive inputs.
+            # Convert user input into lowercase to accept not case sensitive inputs.
             city = user_input.lower()
 
         # If user input is not valid, inform user. Checking user input against CITY_DATA.keys().
